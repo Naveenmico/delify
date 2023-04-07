@@ -7,7 +7,7 @@ const userRouter = require("./routes/user");
 const PORT = process.env.PORT || 3000;
 const app = express();
 const cors=require("cors");
-const DB="mongodb+srv://adasv9423:Adarsh2001@cluster0.b7smwiy.mongodb.net/?retryWrites=true&w=majority"
+const DB="mongodb+srv://naveenmicro:2002@cluster0.se0wrya.mongodb.net/?retryWrites=true&w=majority"
 // app.get("/hi",(req,res)=>{
 //     res.send(" jvn bnfj");
 // });
